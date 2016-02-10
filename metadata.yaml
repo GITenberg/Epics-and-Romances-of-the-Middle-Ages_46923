@@ -1,0 +1,34 @@
+_repo: Epics-and-Romances-of-the-Middle-Ages_46923
+contributor:
+  creator:
+    editor:
+      agent_name: Anson, W. S. W.
+      gutenberg_agent_id: '44035'
+      url: http://www.gutenberg.org/2009/agents/44035
+  translator:
+    agent_name: Macdowall, M. W.
+    alias: MacDowall, M. W.
+    gutenberg_agent_id: '37124'
+    url: http://www.gutenberg.org/2009/agents/37124
+creator:
+  author:
+    agent_name: Wägner, Wilhelm
+    birthdate: 1800
+    deathdate: 1886
+    gutenberg_agent_id: '44034'
+    url: http://www.gutenberg.org/2009/agents/44034
+    wikipedia: http://de.wikipedia.org/wiki/Johann_Wilhelm_Ernst_W%C3%A4gner
+description: ''
+gutenberg_issued: '2014-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+tableOfContents: Langobardian Legends -- The Amelungs -- Dietrich of Bern -- The Nibelung
+  Hero -- The Nibelung's Woe -- The Hegeling Legend -- Beowulf -- Carolingian Legends
+  -- Legends of King Arthur and the Holy Grail -- Tannhäuser
+title: Epics and Romances of the Middle Ages
+url: http://www.gutenberg.org/ebooks/46923
