@@ -1,4 +1,5 @@
 _repo: Epics-and-Romances-of-the-Middle-Ages_46923
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -10,6 +11,9 @@ contributor:
     alias: MacDowall, M. W.
     gutenberg_agent_id: '37124'
     url: http://www.gutenberg.org/2009/agents/37124
+covers:
+- cover_type: archival
+  image_path: 46923-h/images/cover.jpg
 creator:
   author:
     agent_name: Wägner, Wilhelm
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44034
     wikipedia: http://de.wikipedia.org/wiki/Johann_Wilhelm_Ernst_W%C3%A4gner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46923#Epics-and-Romances-of-the-Middle-Ages
 gutenberg_issued: '2014-09-21'
 gutenberg_type: Text
 identifiers:
